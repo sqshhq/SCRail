@@ -1,0 +1,46 @@
+QComboBox{
+	color: rgb(56,67,102);
+	background-color: rgb(56,67,102);
+	border: 2px solid rgb(51, 51, 51);
+}
+QComboBox::drop-down{
+	background-color:rgb(56,67,102);
+}
+QComboBox::down-arrow{
+	image: url(./../../SCRail/importData/ImageFolder/arrow.png);
+}
+
+QComboBox#MileageBox_m::down-arrow, QComboBox#MileageBox_sw::down-arrow, QComboBox#MileageBox_wan::down-arrow, QComboBox#MileageBox_s::down-arrow,
+QComboBox#MileageBox_h::down-arrow, QComboBox#MileageBox_ten::down-arrow, QComboBox#MileageBox_one::down-arrow,QComboBox#MileageBox_m_2::down-arrow, QComboBox#MileageBox_sw_2::down-arrow, QComboBox#MileageBox_wan_2::down-arrow, QComboBox#MileageBox_s_2::down-arrow,
+QComboBox#MileageBox_h_2::down-arrow, QComboBox#MileageBox_ten_2::down-arrow, QComboBox#MileageBox_one_2::down-arrow{
+	image: none;
+}
+QComboBox QAbstractItemView{border: 0px;outline:0px;selection-background-color: rgb(29,39,69);height:100px;background:rgb(56,67,102);color:white;}
+QScrollBar:vertical {
+      border: 2px solid rgb(56,67,102);
+      width: 4px;}
+
+QRadioButton { 
+    font-size: 19px;
+}
+
+QRadioButton::indicator { 
+    width: 25px;
+    height: 25px;
+}
+QRadioButton::indicator:checked { 
+	image: url(./../../SCRail/importData/ImageFolder/on.png);
+}
+QRadioButton::indicator:unchecked { 
+	image: url(./../../SCRail/importData/ImageFolder/out.png);
+}
+QLabel#Logo,QLabel#Logo2{
+	image:url(./../../SCRail/importData/ImageFolder/XTieTM.png);
+}
+QCheckBox::indicator:unchecked{  
+    image:url(./../../SCRail/importData/ImageFolder/checkOut.png);  
+}  
+  
+QCheckBox::indicator:checked{  
+    image:url(./../../SCRail/importData/ImageFolder/checkOn.png);  
+}  

@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="/SCRail">
+    <file>Resources/ImageFolder/checkImage.png</file>
+    <file>importData/ImageFolder/button/j2.png</file>
+    <file>Resources/ImageFolder/chooseOut.png</file>
+    <file>Resources/ImageFolder/LineEdit.png</file>
+    <file>Resources/ImageFolder/analysisBG.png</file>
+    <file>importData/ImageFolder/button/returnCheck.png</file>
+    <file>importData/ImageFolder/button/disconnect.png</file>
+    <file>Resources/ImageFolder/n2.png</file>
+    <file>importData/ImageFolder/keyBroad.png</file>
+    <file>importData/ImageFolder/yellow.png</file>
+    <file>importData/ImageFolder/white.png</file>
+    <file>importData/ImageFolder/green.png</file>
+    <file>importData/ImageFolder/close.png</file>
+    <file>importData/ImageFolder/mini.png</file>
+    <file>importData/ImageFolder/blue.png</file>
+    <file>importData/ImageFolder/red.png</file>
+    <file>Resources/ImageFolder/statistcsImage.png</file>
+    <file>Resources/ImageFolder/home.png</file>
+  </qresource>
+  <qresource prefix="/RailState">
+    <file>Resources/ImageFolder/c1.png</file>
+    <file>Resources/ImageFolder/c2.png</file>
+    <file>Resources/ImageFolder/c3.png</file>
+    <file>Resources/ImageFolder/c4.png</file>
+    <file>Resources/ImageFolder/c5.png</file>
+    <file>Resources/ImageFolder/c6.png</file>
+    <file>Resources/ImageFolder/c7.png</file>
+    <file>Resources/ImageFolder/c8.png</file>
+    <file>Resources/ImageFolder/d1.png</file>
+    <file>Resources/ImageFolder/d2.png</file>
+    <file>Resources/ImageFolder/d3.png</file>
+    <file>Resources/ImageFolder/d4.png</file>
+    <file>Resources/ImageFolder/d5.png</file>
+    <file>Resources/ImageFolder/d6.png</file>
+    <file>Resources/ImageFolder/d7.png</file>
+    <file>Resources/ImageFolder/d8.png</file>
+  </qresource>
+</RCC>
