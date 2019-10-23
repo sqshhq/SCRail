@@ -3774,7 +3774,7 @@ public:
         retranslateUi(SCRailClass);
 
         stackedWidget->setCurrentIndex(0);
-        funcInterface->setCurrentIndex(4);
+        funcInterface->setCurrentIndex(0);
         MileageBox_m->setCurrentIndex(0);
         MileageBox_sw->setCurrentIndex(0);
         MileageBox_s->setCurrentIndex(0);
