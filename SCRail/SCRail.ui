@@ -429,8 +429,8 @@ border:none;</string>
            <rect>
             <x>3</x>
             <y>52</y>
-            <width>1911</width>
-            <height>911</height>
+            <width>1921</width>
+            <height>691</height>
            </rect>
           </property>
           <layout class="QVBoxLayout" name="verticalLayout_2">
@@ -701,6 +701,7 @@ color: rgb(255, 255, 255);</string>
          <zorder>layoutWidget</zorder>
          <zorder>layoutWidget</zorder>
          <zorder>stateLight_3</zorder>
+         <zorder>verticalSpacer_3</zorder>
         </widget>
         <widget class="QWidget" name="Function">
          <widget class="QStackedWidget" name="funcInterface">
